@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
             saveBtn.textContent = 'Save';
 
             const deleteBtn = document.createElement('img');
-            deleteBtn.src = 'delete.png';
+            deleteBtn.src = 'delete.webp';
             deleteBtn.alt = 'Delete';
             deleteBtn.classList.add('delete-btn');
 
